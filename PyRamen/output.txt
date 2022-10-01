@@ -1,0 +1,15 @@
+Ichiban Ramen Financial Report by menu item 
+--------------------------------------------------------
+
+spicy miso ramen{'01-count': 4, '02-revenue': 48.0, '03-cogs': 20, '04-profit': 28.0}
+
+tori paitan ramen{'01-count': 8, '02-revenue': 104.0, '03-cogs': 48, '04-profit': 56.0}
+
+truffle butter ramen{'01-count': 6, '02-revenue': 84.0, '03-cogs': 42, '04-profit': 42.0}
+
+tonkotsu ramen{'01-count': 6, '02-revenue': 78.0, '03-cogs': 36, '04-profit': 42.0}
+
+vegetarian spicy miso{'01-count': 4, '02-revenue': 48.0, '03-cogs': 20, '04-profit': 28.0}
+
+shio ramen{'01-count': 2, '02-revenue': 22.0, '03-cogs': 10, '04-profit': 12.0}
+
