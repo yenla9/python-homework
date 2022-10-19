@@ -16,7 +16,7 @@ compares it to the SP 500. It analyzes:
 ## Return to Risk ratio for each portfolio
 ![Sharpe Ratios](https://github.com/yenla9/python-homework/blob/main/Starter_Code/sharpe%20ratios.GIF)
 
-The second part of the whale_analysis tool is Custom Portfolio that analyzes 3 stocks (AMC, NVVE, and OXY). It analyzes:
+## The second part of the Whale_analysis tool analyzes 3 stocks (AMC, NVVE, and OXY) and displays the following:
 * Portfolio Returns
 * Volatity of the portfolio
 * Rolling Statistics
