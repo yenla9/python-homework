@@ -4,17 +4,17 @@ The Whale_analysis Jupyter Notebook is a tool that analyzes several portfolios a
 compares it to the SP 500. It analyzes:
 
 ## Portfolio Returns over a period time
-![Cumulative](https://github.com/yenla9/python-homework/blob/main/Homework4/cumulative%20returns.GIF)
+![Cumulative](https://github.com/yenla9/python-homework/blob/main/Starter_Code/cumulative%20returns.GIF)
 ## Volatility of the portfolio compared to SP500
-![box](https://github.com/yenla9/python-homework/blob/main/Homework4/box.GIF)
+![box](https://github.com/yenla9/python-homework/blob/main/Starter_Code/box.GIF)
 ## Correlation of each portfolio to the SP500
-![corr](https://github.com/yenla9/python-homework/blob/main/Homework4/corr.GIF)
+![corr](https://github.com/yenla9/python-homework/blob/main/Starter_Code/corr.GIF)
 ## Beta of a Portfolio
-![Beta](https://github.com/yenla9/python-homework/blob/main/Homework4/Beta%20Soros.GIF)
+![Beta](https://github.com/yenla9/python-homework/blob/main/Starter_Code/Beta%20Soros.GIF)
 ## Rolling Statistics
-![Rolling Window](https://github.com/yenla9/python-homework/blob/main/Homework4/rolling%20window.GIF)
+![Rolling Window](https://github.com/yenla9/python-homework/blob/main/Starter_Code/rolling%20window.GIF)
 ## Return to Risk ratio for each portfolio
-![Sharpe Ratios](https://github.com/yenla9/python-homework/blob/main/Homework4/sharpe%20ratios.GIF)
+![Sharpe Ratios](https://github.com/yenla9/python-homework/blob/main/Starter_Code/sharpe%20ratios.GIF)
 
 The second part of the whale_analysis tool is Custom Portfolio that analyzes 3 stocks (AMC, NVVE, and OXY). It analyzes:
 * Portfolio Returns
