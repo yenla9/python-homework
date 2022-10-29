@@ -8,7 +8,7 @@ Contain a Python script (financial-planner.jpynb) that fetches the latest Bitcoi
 
 * Perform Savings Health Analysis and inform the account holder if they have enough emergency fund
 
-![picture][https://github.com/yenla9/python-homework/blob/main/Homework5/personal_saving.GIF]
+![picture](https://github.com/yenla9/python-homework/blob/main/Homework5/personal_saving.GIF)
 
 ## Part 2 - Retirement Planning
 Contain a Python script (financial-planner) that performs Monte Carlo Simulation for 30 years with a "40/60" portfolio.
