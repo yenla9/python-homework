@@ -6,7 +6,7 @@ Contain a Python script (financial-planner.jpynb) that fetches the latest Bitcoi
 
 * Total investment value
 
-* Perform Savings Health Analysis and inform the account holder if they have enough emergency fund
+* Perform Saving Health analysis and inform the account holder if they have enough emergency fund
 
 ![picture](https://github.com/yenla9/python-homework/blob/main/Homework5/personal_saving.GIF)
 
