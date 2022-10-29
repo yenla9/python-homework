@@ -26,3 +26,5 @@ Contain a Python script (financial-planner) that performs Monte Carlo Simulation
 ![10 years](https://github.com/yenla9/python-homework/blob/main/Homework5/10yrs.GIF)
 
 ![10 years Distribution](https://github.com/yenla9/python-homework/blob/main/Homework5/distri_10.GIF)
+
+### Note: Please use your Alpaca and Nasdaq API keys to run the program.
