@@ -13,16 +13,16 @@ Contain a Python script (financial-planner.jpynb) that fetches the latest Bitcoi
 ## Part 2 - Retirement Planning
 Contain a Python script (financial-planner) that performs Monte Carlo Simulation for 30 years with a "40/60" portfolio.
 
-![30 years]
+![30 years](https://github.com/yenla9/python-homework/blob/main/Homework5/30%20years.GIF)
 
-![30 years Distribution]
+![30 years Distribution](https://github.com/yenla9/python-homework/blob/main/Homework5/distr_30%20years.GIF)
 
 ### Perform Early Retirement Analysis in 5 years
-![5 years]
+![5 years](https://github.com/yenla9/python-homework/blob/main/Homework5/5_yrs.GIF)
 
-![5 years Distribution]
+![5 years Distribution](https://github.com/yenla9/python-homework/blob/main/Homework5/distr_5yrs.GIF)
 
 ### Perform Early Retirement Analysis in 10 years
-![10 years]
+![10 years](https://github.com/yenla9/python-homework/blob/main/Homework5/10yrs.GIF)
 
-![10 years Distribution]
+![10 years Distribution](https://github.com/yenla9/python-homework/blob/main/Homework5/distri_10.GIF)
