@@ -1,4 +1,4 @@
-# Homework # 6: Housing Rental Analysis for San Francisco
+# Homework 6: Housing Rental Analysis for San Francisco
 ### By: Yen
 
 
@@ -11,6 +11,7 @@
 
 ### It has capability for users to drill down and look at individual neighborhood. 
 ![neighborhood](https://github.com/yenla9/python-homework/blob/main/Homework6/neighborhood.gif)
+
 
 ### It aggregates data and displays potential investement properties on a geopspatial dashboard.  
 ![dashboard](https://github.com/yenla9/python-homework/blob/main/Homework6/dashboard.gif)
