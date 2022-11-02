@@ -13,4 +13,4 @@
 ![neighborhood](https://github.com/yenla9/python-homework/blob/main/Homework6/neighborhood.gif)
 
 ### It aggregates data and displays potential investement properties on a geopspatial dashboard.  
-![dashboard](https://github.com/yenla9/python-homework/blob/main/Homework6/dashboard.png)
+![dashboard](https://github.com/yenla9/python-homework/blob/main/Homework6/dashboard.gif)
