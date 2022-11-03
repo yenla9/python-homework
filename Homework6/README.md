@@ -9,7 +9,7 @@
 
 ![overall_trend](https://github.com/yenla9/python-homework/blob/main/Homework6/overall_trend.GIF)
 
-### It has capability for users to drill down and look at individual neighborhood. 
+### It offers capability for users to drill down and look at the trend of an individual neighborhood. 
 ![neighborhood](https://github.com/yenla9/python-homework/blob/main/Homework6/neighborhood.gif)
 
 
